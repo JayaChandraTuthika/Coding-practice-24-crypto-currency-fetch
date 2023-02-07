@@ -1,0 +1,50 @@
+* {
+  /* border: 1px solid white; */
+}
+.currency-list-bg-container {
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 60%;
+}
+.currency-main-image {
+  width: 100%;
+}
+.currency-list-container {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  border: 2px solid #00e7ff;
+  border-radius: 8px;
+}
+.table-header {
+  background-color: #092e33;
+  padding: 0;
+  color: white;
+  display: flex;
+}
+.table-header-text-1 {
+  font-size: 20px;
+  color: white;
+  font-weight: 600;
+  width: 65%;
+  margin: 0;
+  padding: 14px 35px;
+}
+.table-header-text-2 {
+  font-size: 20px;
+  color: white;
+  font-weight: 600;
+  width: 18%;
+  margin: 0;
+  padding: 14px 20px;
+}
+.table-header-text-3 {
+  font-size: 20px;
+  color: white;
+  font-weight: 600;
+  width: 15%;
+  margin: 0;
+  padding: 14px 20px;
+}

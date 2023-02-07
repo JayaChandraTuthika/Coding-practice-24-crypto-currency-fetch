@@ -1,0 +1,19 @@
+* {
+  font-family: 'roboto';
+  /* border: 1px solid white; */
+}
+.currency-tracker-container {
+  background-color: black;
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5%;
+}
+.main-heading {
+  color: #00e7ff;
+  font-size: 45px;
+  margin: 0;
+}
